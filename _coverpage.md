@@ -4,8 +4,8 @@
 # 在慕尼黑你想知道的一切
 
 
-<!-- [Github](https://github.com/david990917/Starky-Docsify)
-[Design](/my-own-docsify/) -->
+[Github](https://github.com/TUMDE/welcome2munich)
+[课程论坛](https) 
 
 
 

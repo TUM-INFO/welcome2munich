@@ -1,8 +1,13 @@
 <!-- _sidebar.md -->
 
 * [首页](/)
-* [来德国第一步 - 解决身份问题](/first-step/)
-* [课程百科](/courses/)
-* [生活](/living/)
-* [运动](/sports/)
-* [其他](/others/)
+* [抵达德国](/arrival/)
+* [校园学习](/study/)
+  * [常用网站](/study/common-website.md)
+  * [校内平台](/study/platform.md)
+  * [奖学金](/study/scholarships.md)
+  * [校内工作机会](/study/in-school-job.md)
+* [课外生活](/living/)
+  * [ZHS运动中心](/living/sports-zhs.md)
+  * [TUMi](/living/tumi)
+<!-- * [其他](/others/) -->
