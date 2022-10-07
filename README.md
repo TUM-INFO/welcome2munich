@@ -1,7 +1,7 @@
-# 慕尼黑指南
-在慕尼黑你想知道的一切
+# CSSAGarching百科指南
+在TUM乃至慕尼黑，你想知道的一切
 
-Everything you want to know when on boarding Munich
+Everything you want to know when on boarding TUM and even Munich
 
 * [首页](/)
 * [抵达德国](/arrival/)
